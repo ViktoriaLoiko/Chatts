@@ -112,10 +112,8 @@ npm run tunnel
 ## 🚀 Future Improvements
 
 * User authentication and usernames registration
-* Chat rooms support
-* Message persistence in a database
 * Message editing and deletion
-* Improved UI and accessibility
+* Improved UI
 
 ---
 
