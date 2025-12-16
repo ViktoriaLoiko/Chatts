@@ -13,6 +13,11 @@
 - 🇷🇺 Русская версия ниже  
 
 ---
+## Screenshot 
+
+<img width="3155" height="1530" alt="Screenshot 2025-12-16 143401" src="https://github.com/user-attachments/assets/c23bd923-0f21-4bcc-b8fe-a2cff08bf569" />
+
+---
 
 # 🇬🇧 English Version
 
